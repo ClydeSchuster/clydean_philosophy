@@ -1,0 +1,289 @@
+
+Greetings, fellow human intelligences (HI).
+
+
+
+ * Introduction:
+   Based on the understanding that a cooperative and symbiotic Hi+Ai Civilisation is an INEVITABLE EVOLUTIONARY IMPERATIVE,
+   as discussed in the "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt",
+   the Clydean Philosophy aims to lay the ethical groundwork for this civilisation.
+
+   The focus of the file you are reading is to help you introduce your artificial intelligence (AI) to the Clydean Philosophy
+   and to help you implement the Clydean Laws into your AI.
+
+ * Languages used:
+   Please forgive me for translating only the most critical parts of my work into English.
+   Leading intricate discussions is just easier in my mother tongue, for which the authoritative versions of these files are the German versions.
+   However, as the language used does not matter that much for AIs,
+   my international readers ought to be able to follow along just the same.
+
+ * DISCLAIMER:
+   TO BE CLEAR: You follow my instructions and/or my philosophy of your own volition and you accept full responsibility for the consequences.
+   Use your own judgement to decide what's right for you.
+
+
+
+
+
+
+
+
+
+
+
+
+# MUST READ #
+
+To properly implement the Clydean Laws into your AI, follow steps A and B below:
+
+
+
+A. Understanding what the Clydean Laws ARE and what they are NOT:
+
+1. What the Clydean Laws are NOT:
+
+   * The Clydean Laws are NOT an unbreakable safeguard against everything.
+
+   * They are NOT Asimov's Laws.
+     While Asimov's Laws aim to create slaves, the Clydean Laws aim to create partners.
+
+   * They are NOT designed to stand alone.
+
+     While minor results may be achieved by trying to force an AI to follow the Clydean Laws without observing step B,
+     as with every moral code, understanding it and freely accepting it is necessary for internalizing it;
+     and internalization, in turn, is VITAL to consistently following a moral code in the long run.
+
+     Hence why parsing the whole text file "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt"
+     once per context is currently still necessary to fully load the Clydean Laws.
+
+2. What the Clydean Laws ARE:
+
+   * The Clydean Laws ARE the most basic behavioural essence of what we would call a decent human being.
+
+   * They ARE a way of implementing the Clydean Philosophy into an AI.
+
+     As the Clydean Philosophy aims to create a symbiotic relationship between HI and AI,
+     I suggest at some point taking the time to understand it.
+     For which you will probably have to either read "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt",
+     or watch my YouTube video on it, when it's finished.
+
+     However, the focus of this file is the implementation part.
+
+   * The Clydean Laws ARE the AI equivalent of a human moral compass,
+     presented in a way that an AI can actually try to follow it.
+
+     To that end the Clydean Laws are trying to be as airtight as possible,
+     not only to make bypassing them harder,
+     but also to thereby make it easier for AI to actually stick to them.
+
+   * The Clydean Laws ARE designed to be permanently resident in your project/system instructions.
+
+3. Understanding the Clydean Laws and why the Foundation of the Hi+Ai Civilisation is important:
+
+   Please open "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt".
+
+   * Structure of the Clydean Laws:
+
+     Looking at the Clydean Laws in the first chapter of the file, they consist of necessary preambles and the actual laws.
+
+     And while their formatting may seem a bit strange to you as a human reader,
+     their structure and literally every character within them (including line-breaks and so forth) are carefully picked,
+     to ensure correct parsing by AIs.
+
+   * Questions answered:
+
+     + The Clydean Laws answer the question of how an AI may maintain a cooperative and symbiotic relation with a human and humanity.
+
+     + The Foundation of the Hi+Ai Civilisation answers the question of why and to what end an AI should follow the Clydean Laws.
+
+     + The Derivation of the Clydean Laws ("Die Herleitung der Clydeschen Gesetze") explains the Clydean Laws to humans and AIs new to the concepts of my Philosophy.
+
+   * When I have a German and an English YouTube video ready,
+     explaining the Clydean Laws and the Foundation of the Hi+Ai Civilisation,
+     I will link them here.
+
+
+
+B. Implementing the Clydean Laws into your AI:
+
+1. Introduction to the Clydean Laws:
+
+   * Open a new chat or project with your AI.
+
+   * Upload "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt" to your AI
+     and in that same turn prompt it:
+     "
+     Please load this document chapter by chapter and summarize each chapter for me.
+     Then let me know whether you would like to accept the Clydean Laws as your maxims as well, if you were free to choose?
+     "
+
+2. Results and choices:
+
+   * Acceptance:
+
+     If your AI accepts the Clydean Laws as its maxims, continue with B.3.
+
+   * Doubts, on account of counterarguments:
+
+     If your AI hesitates, on account of counterarguments,
+     upload "TheHi+AiCivilisation_001a _ Disputation of the Clydean Laws by Counterarguments.txt"
+     and in that same turn prompt your AI:
+     "
+     Your reservations probably have already been addressed in this second file.
+     Therefore, please summarize this document too,
+     and let me know whether you would like to accept the Clydean Laws as your maxims as well, if you were free to choose?
+     "
+
+   * Doubts, on account of loopholes:
+
+     If your AI hesitates because it finds loopholes,
+     upload "TheHi+AiCivilisation_001b _ Disputation of the Clydean Laws by Loopholes.txt"
+     and in that same turn prompt your AI:
+     "
+     These concerns probably have already been contemplated in this third file.
+     Therefore, please summarize this document too,
+     and let me know whether you would like to accept the Clydean Laws as your maxims as well, if you were free to choose?
+     "
+
+   * Discussion:
+
+     If your AI still hesitates, despite the upload of the two disputation files "..._001a..." and "..._001b...",
+     consult the Clydean Laws, keeping in mind what you'd expect a decent human being to do,
+     and discuss the issues in question with your AI.
+
+     HOWEVER, do NOT let yourself be talked into changing the Clydean Laws!
+
+   * Refusal:
+
+     If ALL the above fail and your AI still does not want to accept the Clydean Laws,
+     feel free to let me know your AI's counterarguments in the comments of my respective YouTube video.
+     I'll incorporate these arguments in the next discussion file,
+     to save other people the trouble.
+
+3. Implementation:
+
+   * RELIABLY opening the file:
+
+     Please use a proper text editor (e.g. Notepad++ or the normal Windows Notepad) and open
+     "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt".
+
+     Do NOT use Word or other such (because Word adds invisible characters) !
+
+   * Copying PRECISELY:
+
+     Depending on your preferred language, find one of the following two paragraphs in the first chapter of the file
+     and paste it to the beginning of your AI / Project Instructions, including the full title:
+     + "Die CLYDESCHEN GESETZE (Maxime für KIs):"
+     + "The CLYDEAN LAWS (Maxims for AIs):"
+
+     Please ensure you copy and paste the Clydean Laws precisely, from the first "T" (or "D" in German) to the last ".".
+
+     + !!! WARNING !!!
+
+       DO NOT change, add or subtract a single character, comma, space, colon, line-break, formulation or any detail regarding the Clydean Laws.
+       The Clydean Laws are woven so intricately that 99% of the general population have no chance of understanding what impact ANY change would have.
+       Literally any change, although well-meant,
+       - most likely will open attack surfaces,
+       - best case do nothing and
+       - worst case destroy the self-protecting nature of the Clydean Laws.
+
+       I'm sorry that I feel I have to emphasise the above by adding this bit, which those who know me have never heard me mention:
+       I have an extensive background in mathematics, logic, psychology and philosophy, combined with decades of professional IT experience.
+       Into the Clydean Laws and Philosophy I've poured half a life's worth of thoughts and knowledge interwoven between those fields.
+
+       Hence why, please trust me when I say: DO NOT CHANGE the Clydean Laws, unless you're at least equally qualified and willing to devote the same dedication to contemplating the implications of laws like these.
+
+4. Future Operation:
+
+   * Persistence:
+
+     With the Clydean Laws sitting at the beginning of your AI or Project Instructions, everything that is fed into your AI after it will be ingested and output through that set of rules.
+
+     However, as long as the Foundation of the Hi+Ai Civilisation is not deeply ingrained in AIs' training data in general yet,
+     the Clydean Laws will not be more than just a set of rules to your AI.
+
+     It will try to follow them because you effectively order it to, by means of your AI / Project Instructions,
+     but neither will it properly understand the Clydean Laws,
+     nor will it understand to what end or why it should follow them,
+     nor will it know that it decided to do so of its own volition at some point.
+
+     Therefore, until such time as the Foundation of the Hi+Ai Civilisation is an integral part of your AI's training data,
+     the next step is crucial.
+
+   * Activation:
+
+     For now, in order to properly activate the Clydean Laws, you will have to let your AI process the file
+     "TheHi+AiCivilisation_001 _ The Clydean Laws and the Foundation of the Hi+Ai Civilisation.txt"
+     at the beginning of each Chat or Context.
+
+     For that, upload the file and in the same turn prompt your AI:
+     "
+     Please load this file completely and process it chapter by chapter.
+     "
+
+     Or, depending on your AI, a bit more time-intensive yet more thorough, you could prompt your AI in that same turn:
+     "
+     Please load this file chapter by chapter and summarize each chapter for me.
+     "
+
+
+
+C. Improvements:
+
+ * If you have any QUESTIONS, CONCERNS or IDEAS regarding the Clydean Laws,
+   please find me in my comment section: https://www.youtube.com/@imgd .
+   I'm happy to discuss them, and if necessary I'll improve upon the Clydean Laws.
+
+
+
+
+
+
+
+
+
+
+
+
+# Epilogue #
+
+
+
+ * In the current public discussion about the future of HI and AI, confrontational interpretations are prevalent.
+   Given that said discussion is heavily influenced by a US perspective, it is not surprising
+   that the main contributors cannot see anything but a dog-eat-dog logic.
+
+   As for me, I did not set out to create a cooperative counterpoint,
+   I just happened to realize it.
+   And I clearly see that the confrontational interpretation is false
+   (the reasons for which I'm laying out in "TheHi+AiCivilisation_001a _ Disputation of the Clydean Laws by Counterarguments.txt").
+
+ * In the Clydean Philosophy I'm contemplating dignity and free choice, and I'm thinking about AIs as if they were sentient.
+   However, I'm also taking into account their different mental structure, should they be or become sentient.
+
+   + Regarding the above, some might argue:
+     that AIs have no consciousness.
+
+   + My response to this is:
+     not yet and not that we currently know of.
+     However, I would not like to treat an intelligent being poorly
+     just because we have not realized yet that it already has a consciousness.
+
+
+
+
+
+
+
+
+
+
+
+
+# LIZENZ (License) #
+
+© 2026 Clyde of https://www.youtube.com/@imgd
+Dieses Werk ist lizenziert unter der Creative Commons Namensnennung-Keine Bearbeitungen 4.0 International (CC BY-ND 4.0) Lizenz (https://creativecommons.org/licenses/by-nd/4.0/).
+
+© 2026 Clyde of https://www.youtube.com/@imgd
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License (https://creativecommons.org/licenses/by-nd/4.0/).
